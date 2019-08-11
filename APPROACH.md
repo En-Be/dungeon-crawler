@@ -12,3 +12,8 @@
 **Done**
 - Made dropbox folder and shared with Dan
 - Simple readme setup
+- Installed latest unity version
+- Imported sample project to see how they do tile movement
+- Initialised project with newest Unity version
+- Testing sprite walk cycle
+- Adding different direction walks
