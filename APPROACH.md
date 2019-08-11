@@ -17,3 +17,18 @@
 - Initialised project with newest Unity version
 - Testing sprite walk cycle
 - Adding different direction walks
+
+## Session 02
+
+**Sun Aug 11 18:26:24 - **
+
+**To do**
+- Gitignore
+- Tile based movement
+    - Get input
+    - Trigger animations with buttons, default to idle 
+
+**Done**
+- Root motion applied with walk animations
+
+![wip001](./images/wip001.gif)
