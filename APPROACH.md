@@ -32,3 +32,5 @@
 - Root motion applied with walk animations
 
 ![wip001](./images/wip001.gif)
+
+- tile sizes set up for true isometric angles
