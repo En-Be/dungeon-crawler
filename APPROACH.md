@@ -64,5 +64,8 @@
 Copying assembly from 'Temp/Assembly-CSharp.dll' to 'Library/ScriptAssemblies/Assembly-CSharp.dll' failed
 ```
 - Restarted Unity
+- Figured out some artwork size standardising
 - Moving player with key presses, not finding right tile
 - Finding correct tiles with key presses
+
+![wip002](./images/wip002.gif)
