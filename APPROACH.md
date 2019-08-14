@@ -34,3 +34,16 @@
 ![wip001](./images/wip001.gif)
 
 - tile sizes set up for true isometric angles
+
+## Session 03
+
+**Wed Aug 14 10:54:15 - Wed Aug 14 12:28:10**
+
+**To do**
+- Figure out a/best way to do grid-based movement 
+
+**Done**
+- Research 2d raycast
+- Reasearch tilemaps
+- Pseudocode the algorithm for moving the player
+- Found the player position on the grid from world space
